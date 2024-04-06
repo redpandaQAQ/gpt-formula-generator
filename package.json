@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/find-config": "^1.0.4",
+    "@types/node": "^20.12.4",
+    "typechat": "^0.1.0",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "find-config": "^1.0.0"
+  }
+}
