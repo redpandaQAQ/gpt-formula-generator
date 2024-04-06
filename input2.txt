@@ -1,0 +1,8 @@
+consider the following spreadsheet in csv formate:
+name,age,salary
+john,25,50000
+susan,30,60000
+mike,35,70000
+sam,40,80000
+the bonus is 10% of their salary.
+Now calculate the bonus of john.

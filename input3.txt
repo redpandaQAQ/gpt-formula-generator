@@ -1,0 +1,8 @@
+consider the following spreadsheet in csv formate:
+name,age,salary
+john,25,50000
+susan,30,60000
+mike,35,70000
+sam,40,80000
+the bonus has 2 parts:first part is 10% of the salary and the second part is 5% of the salary for each year of age of the employee.
+Now calculate the bonus of john.
